@@ -52,12 +52,6 @@ Outside of coding, I focus on staying consistent, learning new technologies, and
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=WaleedSiddiqui1&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: [www.linkedin.com/in/waleedsiddiqui5803]
 - Instagram: [https://www.instagram.com/waleed.ts]
